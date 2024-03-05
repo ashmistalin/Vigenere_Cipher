@@ -105,10 +105,8 @@ int main() {
 ### Output:
 
 ## Encryption:
-![Screenshot (473)](https://github.com/ashmistalin/Ceaser_cipher/assets/103128410/1625b02f-588c-46e7-9073-8451412bf4fe)
 
 ## Decryption:
-![Screenshot (474)](https://github.com/ashmistalin/Ceaser_cipher/assets/103128410/dc0d29b1-b4ef-4c69-9ad8-ae0210e72526)
 
 
 ### Result:
